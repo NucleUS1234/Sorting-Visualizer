@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-[View the Sorting Visualizer](http://127.0.0.1:5500/index.html)
+[View the Sorting Visualizer](https://nucleus1234.github.io/Sorting-Visualizer/)
 
 This is a web-based sorting algorithm visualizer. The application allows you to generate an array and visualize how different sorting algorithms work step by step.
 
